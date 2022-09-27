@@ -14,6 +14,7 @@ The Akamai script is obsfucate to make it incomprehensible to humans but which g
 ### Canvas FingerPrinting 
 
 The canvas FingerPrinting is one method used to detect bots, it generate a same image for everyone but when you convert it to Base 64 URL it change which depends of the Browser/Browser version and GPU 
+TO CONTINUE
 
 ![image](https://user-images.githubusercontent.com/31575941/192380023-36dd3f32-72c6-4e6c-9bac-b6a441d45bd1.png)
 
